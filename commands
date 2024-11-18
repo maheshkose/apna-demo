@@ -1,0 +1,20 @@
+                GIT COMMANDS
+
+1. git status{
+    {unchanged
+    new files that git doesn't yet track},
+    {modified
+        changed
+    },
+    {staged
+    file is ready to committed
+    },
+    {unmodified
+    unchanged}
+} 
+2. git clone //it makes clone of git rapo on local system
+3. add -adds new or changed files in your working directory to the git staging area
+        git add filename
+
+4. commit - it is the record of changed
+        git commit -m "some message"
